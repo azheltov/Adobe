@@ -1,0 +1,58 @@
+For module 1
+
+Full releases (GA)
+
+Service Packs (SP)  (quarterly)
+
+Hotfixes (as needed)
+
+Cumulative Fix Packs (CFP) bug fixes (monthly)
+
+ 
+
+Package Share is the way to access them
+
+ 
+
+ 
+
+For module 2
+
+Web Console
+
+JCR repository
+
+PID – persistentidentity
+
+ 
+
+Nodes
+
+/apps
+
+/libs
+
+quickstart
+
+ 
+
+at Runtime
+web cosole
+
+/apps
+
+/libs
+
+ 
+
+Run modes
+
+Custom Run Modes
+
+ 
+
+sling:OsgiConfig   /apps
+
+ 
+
+HTML library manager
